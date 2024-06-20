@@ -3,9 +3,10 @@
   <metadata>
     <id>GrpcServiceLibrary</id>
     <version>1.0.0</version>
-    <authors>GrpcServiceLibrary</authors>
+    <authors>Sujit</authors>
     <description>Package Description</description>
-    <repository type="git" />
+    <tags>grpc service repository nuget</tags>
+    <repository type="git" url="https://github.com/sujitmeshramnashtech/GRPC-service-library-nuget-package-try-2" commit="17816a33345d573f277015e2d4e6edc662240f05" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Grpc.AspNetCore" version="2.40.0" exclude="Build,Analyzers" />
@@ -14,6 +15,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="/home/nashtech/Nashtech Sujit/Tech Hub/POCs/GRPC Gateway POC/GrpcServiceLibrary/bin/Release/net8.0/GrpcServiceLibrary.dll" target="lib/net8.0/GrpcServiceLibrary.dll" />
+    <file src="/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/bin/Release/net8.0/GrpcServiceLibrary.dll" target="lib/net8.0/GrpcServiceLibrary.dll" />
   </files>
 </package>

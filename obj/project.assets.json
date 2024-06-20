@@ -755,7 +755,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Grpc.AspNetCore >= 2.40.0",
-      "Grpc.Tools >= 2.40.0",
       "Microsoft.Extensions.Logging.Abstractions >= 6.0.0"
     ]
   },
@@ -802,11 +801,6 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Grpc.AspNetCore": {
-            "target": "Package",
-            "version": "[2.40.0, )"
-          },
-          "Grpc.Tools": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.40.0, )"
           },

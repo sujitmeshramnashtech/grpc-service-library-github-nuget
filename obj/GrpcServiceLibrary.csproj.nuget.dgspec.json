@@ -47,11 +47,6 @@
               "target": "Package",
               "version": "[2.40.0, )"
             },
-            "Grpc.Tools": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.40.0, )"
-            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"

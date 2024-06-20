@@ -10,3 +10,16 @@
 /home/nashtech/Nashtech Sujit/Tech Hub/POCs/GRPC Gateway POC/GrpcServiceLibrary/obj/Release/net8.0/refint/GrpcServiceLibrary.dll
 /home/nashtech/Nashtech Sujit/Tech Hub/POCs/GRPC Gateway POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.pdb
 /home/nashtech/Nashtech Sujit/Tech Hub/POCs/GRPC Gateway POC/GrpcServiceLibrary/obj/Release/net8.0/ref/GrpcServiceLibrary.dll
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/bin/Release/net8.0/GrpcServiceLibrary.deps.json
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/bin/Release/net8.0/GrpcServiceLibrary.dll
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/bin/Release/net8.0/GrpcServiceLibrary.pdb
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.csproj.AssemblyReference.cache
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.AssemblyInfoInputs.cache
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.AssemblyInfo.cs
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.csproj.CoreCompileInputs.cache
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.sourcelink.json
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.dll
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/refint/GrpcServiceLibrary.dll
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/GrpcServiceLibrary.pdb
+/home/nashtech/Nashtech Sujit/Tech Hub/POCs/Current Working POC/3. Github Nuget Package POC/GrpcServiceLibrary/obj/Release/net8.0/ref/GrpcServiceLibrary.dll
